@@ -1,0 +1,1 @@
+{"version":3,"sources":["main1.js"],"names":["$","window","jQuery","find","addClass"],"mappings":"AAAA,IAAIA,CAAC,GAAGC,MAAM,CAACC,MAAf;AACAF,CAAC,CAAC,OAAD,CAAD,CACKG,IADL,CACU,QADV,EAEKC,QAFL,CAEc,KAFd","file":"main1.84b4fafe.js","sourceRoot":"..\\src","sourcesContent":["let $ = window.jQuery\r\n$('#test')\r\n    .find('.child')\r\n    .addClass('red')\r\n"]}
